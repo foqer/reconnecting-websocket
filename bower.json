@@ -1,6 +1,6 @@
 {
-  "name": "reconnectingWebsocket",
-  "main": "reconnecting-websocket.js",
+  "name": "reconnectingWebsocket-flc",
+  "main": "reconnecting-websocket-flc.js",
   "version": "1.0.1",
   "homepage": "https://github.com/joewalnes/reconnecting-websocket",
   "authors": [
